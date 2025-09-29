@@ -1,6 +1,6 @@
 # Privacy Policy for Triplan Travel
 
-Last Updated: [01/20/2025]
+Last Updated: [09/29/2025]
 
 ## Overview
 Triplan Travel ("we," "our," or "us") is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information when you use our travel planning app.
@@ -58,7 +58,6 @@ We may update this policy occasionally. Please review it periodically.
 
 ## Contact Us
 Questions about this policy? Contact us at:
-taburo9987@yahoo.com
-
+triplantravel@gmail.com
 ## Your Consent
 By using Triplan Travel, you consent to this privacy policy.
